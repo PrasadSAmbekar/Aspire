@@ -1,0 +1,42 @@
+{
+  "short_name": "Aspire",
+  "name": "Aspire",
+  "icons": [
+    {
+      "src":"logo128.png",
+      "sizes":"128x128 64x64",
+      "type":"image/png"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "shortcuts":[
+    {
+      "name": "Home Page",
+      "url": "/",
+      "description": "Lists 5 Recent posts"
+    },
+    {
+      "name": "Create New Post",
+      "url": "/posts/new",
+      "short_name":"Create"
+    }
+  ]
+}
