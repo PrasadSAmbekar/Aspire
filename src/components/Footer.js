@@ -32,7 +32,7 @@ function Footer() {
           </Link>
         </div>
         <div className="w-auto max-w-[100%] min-w-[60%] px-4 py-3 mt-4 rounded-full text-center bg-gray-200 text-slate-700 text-lg">
-          Made by Sachin4219
+          Made by Prasad
         </div>
       </div>
     </footer>
